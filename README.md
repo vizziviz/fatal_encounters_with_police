@@ -1,8 +1,11 @@
+# Fatal Encounters with Police: 
+# Identifying Key Areas for Targeted Measures to Prevent Black and Hispanic Deaths
+
 ![plot](reports/figures/readme_images/policeline.jpg)
 
 # Problem Identification and Data Collection
 
- The death of George Floyd while restrained by a police officer has renewed calls for police reform, policy changes, and nation-wide regulations to reduce the number of victims of police shootings. Using collected data on people killed by people, what are the common factors of the fatal encounters that police have with Black and Hispanic victims? I use classication models to predict the race of the victims based on the circumstances and observe which factors are decisive in predicting Black and Hispanice deaths. 
+ The death of George Floyd while restrained by a police officer has renewed calls for police reform, policy changes, and nation-wide regulations to reduce the number of victims of police shootings. Using collected data on people killed by people, what are the common factors of the fatal encounters that police have with Black and Hispanic victims? I use classication models to predict the race of the victims based on the circumstances and observe which factors are decisive in predicting Black and Hispanic deaths. 
  
 There are several sites that collected data on people killed by police, some are crowdsourced and retroactively added when collectors become apprised of the shooting with some information imputed. The Washington Post is a database updated in real-time from its founding, only documenting people who were shot by on-duty police officers (which would exclude George Floyd from this database). Due to its reliable sourcing and real-time updates, I use the Post’s police shootings database for my modeling and explorations.
 
