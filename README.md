@@ -1,4 +1,4 @@
-# Problem Identification and Data Collections
+# Problem Identification and Data Collection
 
  The death of George Floyd while restrained by a police officer has renewed calls for police reform, policy changes, and nation-wide regulations to reduce the number of victims of police shootings. Using collected data on people killed by people, what are the common factors of the fatal encounters that police have with Black and Hispanic victims? I use classication models to predict the race of the victims based on the circumstances and observe which factors are decisive in predicting Black and Hispanice deaths. 
  
